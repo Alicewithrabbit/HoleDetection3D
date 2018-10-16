@@ -23,7 +23,7 @@ Released Date: 2018.10.16
     
     If you have found any bugs, have any suggestions or problems, please contact me at 
     
-    Email: [imroxaswc@gmail.com  ]**
+    Email: imroxaswc@gmail.com
 
 **Syntax:**  
         
