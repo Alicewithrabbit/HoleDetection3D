@@ -14,7 +14,7 @@ The connectivity length of above manifold is calculated as follows,
 
     Conlen(p3) = length(p1-p3) + length(p1-p2) + length(p2-p3) + length(p2-p4) + length(p3-p4).   
     
-**Author: Chong WU, Department of Electroic Engineering, City University of Hong Kong, Hong Kong SAR, China.**  
+**Author: Chong WU, Department of Electronic Engineering, City University of Hong Kong, Hong Kong SAR, China.**  
 
 Released Date: 2018.10.16   
         
