@@ -29,7 +29,7 @@ Released Date: 2018.10.16
         
     Input:    
     
-    p is a N-by-3 point clouds data, L is a thredshold (its value usually takes 2 to 3), and t is a raw triangular mesh of p which needs to be detect and remove the holes.
+    p is a N-by-3 point clouds data, L is a thredshold (its value usually takes 2 to 3), and t is a raw triangular mesh of p which needs to be detected and removed the holes.
     
     Output:     
     
