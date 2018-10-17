@@ -19,7 +19,7 @@ function t = HoleDetection3D(p, L, t)
 % + length(p3-p4).
 % 
 %
-% Author: Chong WU, Department of Electroic Engineering,
+% Author: Chong WU, Department of Electronic Engineering,
 % City University of Hong Kong, Hong Kong SAR, China.
 % Released Date: 2018.10.16
 % Inspired by the work of Gypaets, 2016.6.18, and URL is 
